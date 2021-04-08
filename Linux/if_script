@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#if [ 5 -lt 8 ]
+#then
+#echo " 5 less than 8"
+#fi
+
+if [ 5 -gt 4 ] 
+then
+echo "That is correct"
+else
+echo "That doesn't make sense"
+fi
